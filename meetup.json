@@ -1,3 +1,4 @@
 {
-  "logo": "http://facebook.github.io/react/img/logo_og.png"
+  "logo": "http://facebook.github.io/react/img/logo_og.png",
+  "css": "https://bootswatch.com/paper/bootstrap.min.css"
 }
